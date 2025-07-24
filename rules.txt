@@ -1,0 +1,6 @@
+follow file name related to project
+
+if number of iteration is known use for loop else use while loop
+ 
+code visualization for python java c
+
